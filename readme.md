@@ -1,4 +1,4 @@
-# Laravel Documentation
+# Laravel 5.1 中文文档
 
 ## Contribution Guidelines
 
